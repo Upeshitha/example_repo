@@ -1,3 +1,4 @@
+/* hellow word wxample*/
 #include <stdio.h>
 
 int main() {
